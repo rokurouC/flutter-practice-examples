@@ -1,0 +1,1 @@
+Flutter examples during the awesome Udemy [course](https://www.udemy.com/course/flutter-bootcamp-with-dart/).
